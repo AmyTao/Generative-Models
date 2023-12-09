@@ -1,1 +1,1 @@
-# CSC6137-Generative-Models
+# Generative-Models
